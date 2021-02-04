@@ -1,5 +1,5 @@
 weight = 20 /2.205
-dosage - weight * 30
+dosage =  weight * 30
 
 print("CORRECT DOSAGE")
 print("For a patient weighing {} kg,".format(weight))
